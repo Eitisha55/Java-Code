@@ -1,3 +1,3 @@
 # OOP-lab
-My Lab worl (Roll-Num 25CS038)
+My Lab work (Roll-Num 25CS038)
 
